@@ -1,0 +1,16 @@
+{"message":"Error: User Already Exists","timestamp":"2025-03-04T09:49:23.787Z"}
+{"message":"Invalid Token","timestamp":"2025-03-04T10:07:11.371Z"}
+{"message":"error is not a constructor","timestamp":"2025-03-05T10:03:01.796Z"}
+{"message":"you can only create one institute","timestamp":"2025-03-05T10:05:46.644Z"}
+{"message":"you can only create one institute","timestamp":"2025-03-05T10:06:34.681Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-11T14:32:54.006Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-11T14:33:40.581Z"}
+{"message":"All fields are required","timestamp":"2025-03-12T07:36:53.100Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:35:11.940Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:36:23.377Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:36:34.072Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:38:36.846Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:40:07.152Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:40:32.453Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:40:57.593Z"}
+{"message":"TokenExpiredError: jwt expired","timestamp":"2025-03-17T04:42:22.616Z"}

@@ -1,14 +1,21 @@
 
 import mongoose from "mongoose";
-const classSchema = new mongoose.Schema({
-    name:{
+const roomSchema = new mongoose.Schema({
+    roomName:{
         type: String,
         required: true
+    },
+    capacity:{
+        type: Number,
+    
     },
     departmentId:{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Department',
-        required: true
+    },
+    isActive:{
+        type: Boolean,
+        default: true
     },
     instituteId:{
         type: mongoose.Schema.Types.ObjectId,
@@ -16,8 +23,5 @@ const classSchema = new mongoose.Schema({
         required: true
     },
 });
-const ClassModel = mongoose.model('tbl_class', classSchema);
-export default ClassModel;
-
-
-
+const Room = mongoose.model('tbl_room', roomSchema);
+export default Room;
